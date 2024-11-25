@@ -14,7 +14,7 @@ export default function Header() {
             <li><Link to="/">Home</Link></li>
                 {
                     user==null ?
-                    <li><Link to="/login">Login</Link></li>
+                    <li><Link to="/login">Lgin</Link></li>
 
                     :
                     <>
