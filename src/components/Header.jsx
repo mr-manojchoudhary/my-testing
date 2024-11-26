@@ -11,7 +11,7 @@ export default function Header() {
             <div className="text-3xl">Logo</div>
 
             <ul className="flex gap-10 text-2xl">
-            <li><Link to="/">Home</Link></li>
+            <li><Link to="/">H o m e</Link></li>
                 {
                     user==null ?
                     <li><Link to="/login">Lgin</Link></li>
