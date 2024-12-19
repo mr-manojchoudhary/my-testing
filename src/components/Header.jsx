@@ -18,7 +18,7 @@ export default function Header() {
 
                     :
                     <>
-                    <li><Link to="/add-quiz">Add Quiz</Link></li>
+                    <li><Link to="/add-quiz">Add Quizz</Link></li>
                     <li><Link to="/view-quiz">View Quiz</Link></li>
                     <li><Link to="/play">Play Quiz</Link></li>
                     <li onClick={logout}>
